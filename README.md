@@ -1,4 +1,5 @@
 # BasicHerokuTest
+Simple Phoenix application to test Heroku deployment
 
 To start your Phoenix app:
 
