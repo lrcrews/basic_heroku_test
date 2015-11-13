@@ -1,0 +1,6 @@
+<section>
+  <header>
+    <h1>Hello? Is this Heroku on?</h1>
+  </header>
+  <div><%= @current_datetime_str %></div>
+</section>
